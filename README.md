@@ -4,7 +4,7 @@ Generic [Codex](https://developers.openai.com/codex/) skills for a Markdown-base
 
 ## Included skills
 
-- `accountability-partner` reviews a weekly board and writes concrete feedback with `gtd partner write` when available.
+- `accountability-partner` reviews a weekly board and writes concrete feedback with `gtd-cli partner write` when available.
 - `gtd-brainstorm` creates 30 grounded, non-duplicative ideas in `brainstorm.md`.
 
 ## Install

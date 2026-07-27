@@ -31,7 +31,7 @@ Treat omissions carefully. Do not assume an unlisted recurring habit was missed.
 When the `gtd` command is available, write the result with:
 
 ```bash
-gtd partner write YYYY-MM-DD --score N --note "feedback text"
+gtd-cli partner write YYYY-MM-DD --score N --note "feedback text"
 ```
 
 Use this structure:
@@ -56,7 +56,7 @@ One Challenge:
 - One specific, achievable action for the next week.
 ```
 
-If `gtd partner write` is unavailable, present the note without modifying files and state that the command was not found.
+If `gtd-cli partner write` is unavailable, present the note without modifying files and state that the command was not found.
 
 ## Quality Bar
 
