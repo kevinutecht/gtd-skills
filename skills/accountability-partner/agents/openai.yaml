@@ -1,0 +1,4 @@
+interface:
+  display_name: "Accountability Partner"
+  short_description: "Review a GTD weekly board with clear feedback."
+  default_prompt: "Use $accountability-partner to review my latest GTD weekly board."

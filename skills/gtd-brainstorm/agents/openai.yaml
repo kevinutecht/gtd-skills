@@ -1,0 +1,4 @@
+interface:
+  display_name: "GTD Brainstorm"
+  short_description: "Generate grounded ideas from GTD data."
+  default_prompt: "Use $gtd-brainstorm to generate new ideas from my GTD system."
